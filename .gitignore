@@ -1,3 +1,6 @@
 /target/
 *.settings
 /test-output/
+*.project
+/json_output/
+/junit_xml/
